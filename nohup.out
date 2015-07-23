@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "trad.py", line 3, in <module>
+    import tweepy
+ImportError: No module named tweepy
